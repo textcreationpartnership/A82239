@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the treaty at Newport in the Isle of VVight, between the Kings most Excellent Majesty, and the commissioners, declaring their unanimous and joyfull proceedings for peace, His Majesties signing the propositions, and knighting of Mr. Denzill Hollis, and Mr. Iohn Glyn, recorder of the City of London. With the Earl of Northumberlands declaration to the King, and His Majesties propositions in answer thereunto, and declaration concerning the Levellers of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82239</idno>
+            <idno type="STC">Wing D773</idno>
+            <idno type="STC">Thomason E464_35</idno>
+            <idno type="STC">ESTC R205167</idno>
+            <idno type="EEBO-CITATION">99864603</idno>
+            <idno type="PROQUEST">99864603</idno>
+            <idno type="VID">116834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the treaty at Newport in the Isle of VVight, between the Kings most Excellent Majesty, and the commissioners, declaring their unanimous and joyfull proceedings for peace, His Majesties signing the propositions, and knighting of Mr. Denzill Hollis, and Mr. Iohn Glyn, recorder of the City of London. With the Earl of Northumberlands declaration to the King, and His Majesties propositions in answer thereunto, and declaration concerning the Levellers of England.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Northumberland, Algernon Percy, Earl of, 1602-1668.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R. VVilliamson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept ye 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116834:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE TREATY AT <hi>Newport</hi> in the Iſle of <hi>VVight,</hi> between the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, and the Commiſſioners, declaring their unanimous and joyfull proceedings for peace, His Ma<g ref="char:EOLhyphen"/>jeſties ſigning the Propoſitions, and Knighting of Mr. <hi>Denzill Hollis,</hi> and Mr. <hi>Iohn Glyn,</hi> Recorder of the City of <hi>London.</hi> With the Earl of <hi>Northumberlands</hi> Declara<g ref="char:EOLhyphen"/>tion to the <hi>King,</hi> and His Majeſties <hi>Propoſitions</hi> in An<g ref="char:EOLhyphen"/>ſwer thereunto, and <hi>Declaration</hi> concerning the Level<g ref="char:EOLhyphen"/>lers of <hi>England.</hi>
+            </p>
+            <figure>
+               <p>Peace</p>
+               <figDesc>signing the King's treaty at Newport</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. VVilliamſon,</hi> 1648. <add>Sept ye 25<hi rend="sup">th</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:116834:2"/>
+            <head>A DECLARATION Of the proceedings of the TREATY AT <hi>Newport</hi> in the Iſle of <hi>wight;</hi> declaring, the happy Agreement and concurrence of the Kings moſt Excellent Majeſty, and the Commiſſioners on both ſides, to the two firſt Bils, and his Majeſties ſigning them.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>HEre hath been great diſputations between the Commiſſioners, touching the firſt Bill in the Propoſals, of recalling all <hi>Declarations,</hi> and
+<pb n="2" facs="tcp:116834:3"/>
+               <hi>Proclamations,</hi> publiſhed in his Majeſties name a<g ref="char:EOLhyphen"/>gainſt the Parliament; which was debated <hi>Munday</hi> and <hi>Tueſday</hi> laſt, and much time ſpent therein; but upon Wedneſday morning (we hear) that his Maje<g ref="char:EOLhyphen"/>ſty gave his Royall aſſent to the ſaid Bill, and ſigned it, as alſo the Bill for Church-government, promiſing upon his Royall Word, to leave no means unattemp<g ref="char:EOLhyphen"/>ted that may conduce to the peace and welfare of his liege people, and ſheathing the bloud-thirſty and de<g ref="char:EOLhyphen"/>vouring Sword, which for theſe ſeven yeers hath bin drunk with the bloud of his innocent ſubjects.</p>
+            <p>The Commiſſioners proceed on to the reſt of the Propoſitions, according to their Inſtructions, and it his hoped there will be a mutual concurrence ther<g ref="char:EOLhyphen"/>unto.</p>
+            <p>His Majeſty ſhewes great willingneſſe to comply with them in all things propounded, ſo far as it may tend to the ſafety and preſervation of the Laws of the Land, the Diſcipline of the Church, and the peace and tranquility of his languiſhing, and diſtreſſed King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>And hath likewiſe declared his unceſſant Deſires for peace, and that for the perfecting of the Treaty, he would grant a generall pardon to all perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever, that hath aſſiſted the Parliament in the late unnaturall war, except thoſe under the pre<g ref="char:EOLhyphen"/>ſent conduct of Col. <hi>Martin;</hi> yet rather then the trea<g ref="char:EOLhyphen"/>ty ſhould be obſtructed, and the peace of the <hi>kingdom</hi> unferled, he would freely and really forgive them al<g ref="char:EOLhyphen"/>ſo.</p>
+            <p>The right Honorable the Earl of <hi>Northumberland,</hi> as a teſtimony of his loyalty and fidelity both to
+<pb n="3" facs="tcp:116834:3"/>
+               <hi>King</hi> and <hi>Kingdom,</hi> on VVedneſday laſt declared to his Majeſty his ſenſe and reſolution for peace, which followeth in theſe words.</p>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <head>The Earl of Northumberlands Declaration to the Kings Majesty for Peace.</head>
+                  <p>That the honourable Houſes of Parliament being deeply moved with the great ſufferings and oppreſ<g ref="char:EOLhyphen"/>ſions of this languiſhing <hi>Kingdom,</hi> occaſioned by the new Commotions and Riſings within ſeverall parts thereof, had commanded his Lordſhip, and the reſt of the honourable Commiſſioners, to attend his royal perſon and to treat with his Majeſty, and the Lords and Gentlemen on his part, for a lafe and well-groun<g ref="char:EOLhyphen"/>ded peace.</p>
+                  <p>Further declaring, That none could deſire peace more then his Lordſhip, and that to his uttermoſt he would labour a concluſion of peace by the Trea<g ref="char:EOLhyphen"/>ty.</p>
+                  <p>That he had wronged no man, but would labour to be a friend to all in the common peace ot this <hi>King<g ref="char:EOLhyphen"/>dom.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>His Lordſhip having thus declared himſelf, the <hi>King</hi> replied,</p>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <p>That nothing ſhould be wanting in him, for promoting ſo great and good a worke, deſiring a bleſ<g ref="char:EOLhyphen"/>ſing from Heaven upon this preſent Treaty, begun for the establiſhment of an happy peace, &amp;c.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Newport</hi> 
+                        <date>22 Septem. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Other Letters ſay as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:116834:4"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Treaty goes on very ſuccesfully (as yet) and it is hoped a good end will follow ſo happy a beginning, his <hi>Majesty</hi> doth very wel approve of the <hi>Propoſitions</hi> of both Houſes, and ſo doth the Lords and Gentlemen attending his Royall perſon, here is a fair correſpondency between the Commiſſioners on both ſides, and great hopes of a happy reconciliation.</p>
+                  <p>They have made ſome progreſſe into the two firſt <hi>Propoſals, viz. Religion, and recalling of his Majeſties Declarations, &amp;c.</hi> and ſeem to go hand in hand, in a mu<g ref="char:EOLhyphen"/>tuall compliance and concurrence, for a finall com<g ref="char:EOLhyphen"/>poſure of all diſtractions in theſe his Majeſties di<g ref="char:EOLhyphen"/>ſtreſſed Realms and Dominions.</p>
+                  <p>And for the better effecting thereof, and removing of all jealouſies, his Majeſty hath declared his graci<g ref="char:EOLhyphen"/>ous will and pleaſure to the Commiſſioners, touching all his ſubjects in generall, <hi>viz.</hi>
+                  </p>
+                  <div type="part">
+                     <head>His Maiesties Declaration to the Commiſſioners.</head>
+                     <p>That none could have more hearty deſires of peace then he. How he had nothing of ill will to any, but indeed was, and would to the utmoſt, endeavour to appear a friend to all, eſpecially to the languiſhing kingdom.</p>
+                     <p>His Majeſty and the Commiſſioners have ſate cloſe theſe two dayes, ſeverall Objections and Queries are
+<pb n="5" facs="tcp:116834:4"/>
+propoſed by the Councell on both ſides, treat mode<g ref="char:EOLhyphen"/>ratly, and with much amity. Mr. <hi>Palmer</hi> (one of His Majeſties Councell) is much applauded for the beau<g ref="char:EOLhyphen"/>ty of his excellence, by endeavouring to cleere all ſcruples.</p>
+                     <p>Great is our expectations in theſe parts, touching the event of the Treaty, the whole face of this Iſland being fixed thereon for peace, and the prayers of each true ſubject eccho'd up to Heaven for a bleſſing ther<g ref="char:EOLhyphen"/>upon.</p>
+                     <p>All their proceedings (as yet) tendeth to Unity, in the beginning of this their firſt part of the Treaty, and it is hoped their future conſultations will ſatiſ<g ref="char:EOLhyphen"/>fie all our doubts and deſires, and that the great Je<g ref="char:EOLhyphen"/>hovah of Heaven will be pleaſed to crowne their en<g ref="char:EOLhyphen"/>deavours with bleſſings of Peace, that ſo all the ſad differences between the <hi>King</hi> and his <hi>People</hi> may be removed, and the Head and the Members firmly uni<g ref="char:EOLhyphen"/>ted, which God grnat, and bring to a ſudden perfec<g ref="char:EOLhyphen"/>tion, that we may ſee ſweet and comfortable dayes once again, by the happy enjoyment of a finall and everlaſting peace.</p>
+                     <p>There was a generall report this day throughout <hi>Newport,</hi> and other places, that there was great hopes of his Majeſties ſigning to the four firſt Bills, name<g ref="char:EOLhyphen"/>ly, the recalling of his <hi>Proclamations</hi> and <hi>Declarations, Church government, Militia, and the buſineſse of Ire<g ref="char:EOLhyphen"/>land;</hi> theſe foure are the firſt which they inſiſt and treat upon, and it is hoped few dayes will produce the hapyy event and ſucceſſe therof; which is the conſtant prayer of</p>
+                     <closer>
+                        <signed>Your devoted ſervant, <hi>G. CRESWELL.</hi>
+                        </signed>
+                        <dateline>Newport <date>19. Septem. 1648.</date>
+                        </dateline>
+                     </closer>
+                  </div>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:116834:5"/>
+                  <opener>
+                     <dateline>
+                        <date>Semptemb. 22. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>By an Expreſſe further from the Iſle of <hi>Wight</hi> it is advertized, That the King and the Commiſſioners are exceeding unanimous, concurring with each other, in the two firſt Bils; and it is ſaid that his Majeſty hath ſigned them; the one, for ſetling Religion; the other, for recalling all <hi>Declarations,</hi> and <hi>Proclamations,</hi> a<g ref="char:EOLhyphen"/>gainſt his two Houſes. The two chief Bils which they now inſiſt on, is the buſineſſe of <hi>Ireland,</hi> and the <hi>Mi<g ref="char:EOLhyphen"/>litia.</hi>
+                  </p>
+                  <p>It is reported, that the <hi>King</hi> hath knighted two of the Parliaments Commiſſioners, <hi>viz.</hi> Mr. <hi>Denzill Hollis</hi> Eſquire, a member of the Houſe of Commons, and Mr. <hi>Iohn Glin</hi> Recorder of the City of <hi>London.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
